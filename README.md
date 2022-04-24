@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![cactuswarrior's GitHub stats](https://github-readme-stats.vercel.app/api?username=cactuswarrior&show_icons=true&theme=cobalt)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=cactuswarrior)](https://solved.ac/cactuswarrior)
