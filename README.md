@@ -4,11 +4,11 @@
 **cactuswarrior/cactuswarrior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
--  I'm seeking a job; product manager
+-  I'm seeking a job as a product manager
 - 🔭 I had worked at BrickMate
-- 🌱 I’m currently learning vanillaJS and SQL.S
+- 🌱 I’m currently learning vanillaJS and SQL
 <!-- - 👯 I’m looking to collaborate on ... -->
-- 🤔 I’m looking for help with Algorythm
+- 🤔 I’m looking for help with Algorithm
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: cheonss2357@gmail.com
 <!-- - 😄 Pronouns: ... -->
